@@ -1,4 +1,4 @@
 # Master-demo
 This is my first git repository.
-<b>
+<br>
 Author - Jay Mahajan
